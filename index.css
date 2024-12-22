@@ -69,7 +69,7 @@ section {
 }
 .mapas {
     display: grid; 
-    grid-template-columns: repeat(2, 500px); /* limita los cuadrados de los personajes a 4*/
+    grid-template-columns: repeat(2, 500px); /* limita los cuadrados de los personajes a 2*/
     gap: 20%; 
     justify-content: center; 
     
