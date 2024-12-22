@@ -35,12 +35,12 @@ nav a {
 /* hover es cuando pasas el mouse sobre el elemento */
 nav a:hover {
     background-color: #1a1a1a;
-    transform: scale(1.05);
+    transform: scale(32px);
 }
 
 
 section {
-    padding: 2em;
+    padding: 32px;
 }
 .history{
     justify-content: center;
